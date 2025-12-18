@@ -1,0 +1,3 @@
+{
+  "/api/github-crawler/route": "app/api/github-crawler/route.js"
+}

@@ -1,0 +1,18 @@
+{
+  "/admin/page": "app/admin/page.js",
+  "/api/evaluate-answer/route": "app/api/evaluate-answer/route.js",
+  "/api/github-crawler/route": "app/api/github-crawler/route.js",
+  "/api/query-bot/route": "app/api/query-bot/route.js",
+  "/api/question-generator/route": "app/api/question-generator/route.js",
+  "/api/resume-analyzer/route": "app/api/resume-analyzer/route.js",
+  "/dashboard/github-crawler/page": "app/dashboard/github-crawler/page.js",
+  "/dashboard/mock-tests/page": "app/dashboard/mock-tests/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/query-bot/page": "app/dashboard/query-bot/page.js",
+  "/dashboard/question-generator/page": "app/dashboard/question-generator/page.js",
+  "/dashboard/resume-analyzer/page": "app/dashboard/resume-analyzer/page.js",
+  "/page": "app/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/teacher-login/page": "app/teacher-login/page.js"
+}
